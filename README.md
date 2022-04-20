@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben33660
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning to crack passwords,ddos and take websites down
+- 🌱 I’m currently learning to crack passwords, ddos and take websites down
 - 📫 You can reach me by my instagram: @benlucas07
 
 <!---
